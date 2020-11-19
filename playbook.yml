@@ -1,4 +1,4 @@
-- host: server
+- hosts: server
   vars:
   - image: zere/apache-docker-ansible
   tasks:
